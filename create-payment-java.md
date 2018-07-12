@@ -1,4 +1,4 @@
-#Crear un pago utilizando el cliente Java
+# Crear un pago utilizando el cliente Java
 
 El cliente se distribuye como el artefacto java [khipu-api-client](https://search.maven.org/#search%7Cgav%7C1%7Cg%3A%22com.khipu%22%20AND%20a%3A%22khipu-api-client%22) y se recomienda utilizar gradle o maven.
 
